@@ -1,7 +1,10 @@
 name: Hank Quinlan, Horrible Cop
 markdown: kramdown
 
-gems: [jekyll-paginate]
+gems: 
+  - jekyll-paginate
+  - jekyll-sitemap
+
 paginate: 5
 paginate_path: "/blog/page:num/"
 
