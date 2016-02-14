@@ -1,44 +1,25 @@
-body {
-    margin: 60px auto;
-    width: 70%;
-}
-nav ul, footer ul {
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-    padding: 0px;
-    list-style: none;
-    font-weight: bold;
-}
-nav ul li, footer ul li {
-    display: inline;
-    margin-right: 20px;
-}
-a {
-    text-decoration: none;
-    color: #999;
-}
-a:hover {
-    text-decoration: underline;
-}
-h1 {
-    font-size: 3em;
-    font-family:'Helvetica', 'Arial', 'Sans-Serif';
-}
-p {
-    font-size: 1.5em;
-    line-height: 1.4em;
-    color: #333;
-}
-footer {
-    border-top: 1px solid #d5d5d5;
-    font-size: .8em;
-}
+@import url(http://fonts.googleapis.com/css?family=Merriweather:300,300italic,400,400italic,700,700italic);
+@import url(http://fonts.googleapis.com/css?family=Montserrat);
 
-ul.posts { 
-    margin: 20px auto 40px; 
-    font-size: 1.5em;
-}
+body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Georgia, Times; font-size: 16px; }
 
-ul.posts li {
-    list-style: none;
-}
-Don't forget to commi
+h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Merriweather', Georgia, Times; font-weight: 700;}
+.align-center { text-align: center;}
+.align-right { text-align: right;}
+
+/* Masthead */
+.header, .footer, .header h3 {font-family: 'Montserrat', Helvetica, sans-serif;  text-transform: uppercase; font-weight: normal; }
+/* Navigation */
+h3.text-muted a {text-decoration: none; color: #999999; }
+h3.text-muted a:hover { text-decoration: none; color: #0088cc; }
+.menu>li.active, .menu>li>a:hover { text-decoration: none; background-color: #eeeeee;}
+.menu.align-right>li { margin: 2px ;}
+
+/* Content */
+.content {border-top: 1px solid #e5e5e5; padding-top: 5%; margin-top: 3%;}
+/* Pagination */
+.pagination li, .pagination a, .pagination .current { border-radius: 50%; }
+.pagination .pagination-previous a, .pagination .pagination-next a { border-radius: 0;}
+
+/* Footer */
+footer {border-top: 1px solid #e5e5e5; padding-top: 1%; margin-top: 3%;}
