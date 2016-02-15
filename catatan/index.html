@@ -1,12 +1,24 @@
 ---
 layout: default
-title: Ari Firmanto's Blog
+quote: Satu-satunya cara untuk melakukan pekerjaan besar adalah mencintai apa yang Anda lakukan. Jika Anda belum menemukannya, teruslah mencari. Janganlah puas.
+quote_author: Steve Jobs
+title: Ari Firmanto
 ---
-	<h1>{{ page.title }}</h1>
+	<blockquote>
+		<p>{{ page.quote }}</p>
+		<cite>{{ page.quote_author }}</cite>
+	</blockquote>
+	
 	<ul class="posts">
-
 	  {% for post in paginator.posts %}
-	    <li><span>{{ post.date | date_to_string }}</span> » <a href="{{ post.url }}" title="{{ post.title }}">{{ post.title }}</a></li>
+	    <li>
+			<h4>{{ post.title }}</h4>
+			<p>
+				{{ post.review }}
+				<span class="red">{{ post.date | date_to_string }}</span> » 
+				<a href="{{ post.url }}" title="{{ post.title }}">lanjut baca</a>	
+			</p>
+		</li>
 	  {% endfor %}
 	</ul>
 	

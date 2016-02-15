@@ -1,0 +1,17 @@
+---
+layout: post
+title: "Selamat Datang di blog saya!!"
+review: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed justo at augue molestie egestas. Maecenas in nunc congue, condimentum massa ut, mattis odio. Nulla a nunc euismod, dignissim ante in, facilisis felis. Praesent varius sagittis ipsum, eget fringilla lorem. Curabitur non interdum odio. Vivamus nec tempor augue. Aenean rutrum erat in nisl efficitur feugiat. Proin vulputate sem ex, nec laoreet eros rutrum sed. Integer non ante urna. Nam ut eleifend sapi...
+date: 2016-02-14
+---
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce sed justo at augue molestie egestas. Maecenas in nunc congue, condimentum massa ut, mattis odio. Nulla a nunc euismod, dignissim ante in, facilisis felis. Praesent varius sagittis ipsum, eget fringilla lorem. Curabitur non interdum odio. Vivamus nec tempor augue. Aenean rutrum erat in nisl efficitur feugiat. Proin vulputate sem ex, nec laoreet eros rutrum sed. Integer non ante urna. Nam ut eleifend sapien, eget pretium magna.
+
+Proin velit nisi, imperdiet at dictum a, congue vel massa. Suspendisse eu augue orci. Suspendisse fermentum nisl ac lacus ornare, sed ultrices lacus aliquet. Fusce non leo vehicula, sagittis leo vel, auctor lectus. Fusce suscipit tempus nisl, at porttitor velit semper a. Phasellus ultricies consectetur nunc finibus maximus. Phasellus nec libero posuere, faucibus velit eget, hendrerit lacus. Phasellus ut eros rhoncus, scelerisque orci ac, bibendum ex. Nullam eros urna, dapibus ac velit sed, semper dignissim risus. Aenean non egestas diam. Nullam sagittis faucibus mattis.
+
+Praesent sagittis convallis dictum. Aliquam in diam tellus. Proin lectus odio, tincidunt et semper et, consequat ac odio. Ut ac sodales tortor, sed imperdiet dolor. Pellentesque tristique ipsum sem, nec imperdiet augue venenatis sit amet. Suspendisse vel sem sodales est malesuada accumsan ut quis est. Etiam ut rhoncus nisi. Phasellus a arcu efficitur, mollis tortor eu, interdum velit. Aenean fringilla ex justo, a fermentum erat interdum sed. Mauris pellentesque interdum leo nec cursus. Cras sit amet dignissim nisl.
+
+In suscipit auctor diam at lacinia. Fusce porttitor nibh nec lacus rhoncus, in lobortis tortor convallis. Praesent et tellus augue. Maecenas auctor nulla ut sagittis suscipit. Proin ut nisi ex. Ut quam sapien, pulvinar nec sollicitudin nec, vulputate in enim. Nam varius auctor est, in rutrum justo dignissim in. Vivamus consectetur eu metus at rutrum. Vestibulum pretium semper magna non gravida. Donec nec molestie turpis. Nulla tincidunt sit amet leo eget elementum. Etiam id odio sed mauris mattis fermentum in eu mi. Mauris eleifend mi eu dignissim hendrerit. Maecenas tristique sit amet orci ut malesuada. Suspendisse a tortor nisl.
+
+Aliquam pulvinar hendrerit elit, in elementum lacus lacinia et. Aenean fringilla nulla at enim rutrum eleifend. Nunc tristique in libero ut posuere. Vivamus consectetur eros non neque efficitur rutrum. Aenean a auctor erat. Donec ultricies neque suscipit, eleifend nunc et, malesuada turpis. Aenean condimentum neque nisl. Duis porta sem diam. Nullam consequat mattis purus in condimentum. Mauris ante sapien, varius auctor tristique nec, pulvinar vitae dolor. Sed sed purus in elit commodo vulputate. Morbi eleifend enim eget tincidunt ultrices. Vestibulum ligula neque, ultrices sit amet diam ac, vulputate congue nulla. Quisque fermentum dolor vitae ipsum hendrerit pellentesque. Nunc egestas neque et arcu malesuada, sed pellentesque mauris sagittis.
+

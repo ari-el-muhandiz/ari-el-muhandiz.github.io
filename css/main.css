@@ -6,6 +6,8 @@ body { padding-top: 20px; padding-bottom: 40px; font-family: 'Merriweather', Geo
 h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6 { font-family: 'Merriweather', Georgia, Times; font-weight: 700;}
 .align-center { text-align: center;}
 .align-right { text-align: right;}
+ul {list-style: none;}
+.red {color: red;}
 
 /* Masthead */
 .header, .footer, .header h3 {font-family: 'Montserrat', Helvetica, sans-serif;  text-transform: uppercase; font-weight: normal; }
@@ -16,7 +18,7 @@ h3.text-muted a:hover { text-decoration: none; color: #0088cc; }
 .menu.align-right>li { margin: 2px ;}
 
 /* Content */
-.content {border-top: 1px solid #e5e5e5; padding-top: 5%; margin-top: 3%;}
+.content {border-top: 1px solid #e5e5e5; padding-top: 3%; margin-top: 1%;}
 /* Pagination */
 .pagination li, .pagination a, .pagination .current { border-radius: 50%; }
 .pagination .pagination-previous a, .pagination .pagination-next a { border-radius: 0;}
