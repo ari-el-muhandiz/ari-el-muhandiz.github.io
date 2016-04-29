@@ -21,6 +21,6 @@ date: 2016-04-29
 </p>
 
 <p class='with-indent' markdown='1'>
-	Inilah alasan, kenapa IO harus dilakukan secara nonblocking. Ditulisan saya selanjutkan, akan membahasa lebih mendalam, mengenai arsitektur dari node JS, bagaimana node JS menghandle request secara nonblocking.
+	Inilah alasan, kenapa IO harus dilakukan secara nonblocking. Ditulisan saya selanjutnya, akan membahas lebih mendalam, mengenai arsitektur node JS dan bagaimana node JS menghandle request secara nonblocking.
 </p>
 
