@@ -22,6 +22,9 @@ h3.text-muted a:hover { text-decoration: none; color: #0088cc; }
 /* Pagination */
 .pagination li, .pagination a, .pagination .current { border-radius: 50%; }
 .pagination .pagination-previous a, .pagination .pagination-next a { border-radius: 0;}
+p.with-indent {
+    text-indent: 50px;
+}
 
 /* Footer */
 footer {border-top: 1px solid #e5e5e5; padding-top: 1%; margin-top: 3%;}
