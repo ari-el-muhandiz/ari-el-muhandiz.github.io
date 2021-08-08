@@ -6,7 +6,6 @@ theme: jekyll-theme-chirpy
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
 domain: ari-el-muhandiz.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-url: https://ari-el-muhandiz.github.io  # the base hostname and protocol for your site, e.g. http://example.com
 baseurl: ''     # place folder name if the site is served in a subfolder   
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
@@ -16,7 +15,7 @@ lang: id
 # The lang attribute of HTML › http://www.lingoes.net/en/translator/langcode.htm
 # We can specify a language different from the layout of the content.
 # If it is not assigned, the site will use the value of 'lang' instead.
-content_lang: 'id-ID'
+content_lang: id-ID
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
 timezone: Asia/Jakarta
@@ -24,9 +23,9 @@ timezone: Asia/Jakarta
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy                          # the main title
+title: Ari Firmanto                          # the main title
 
-tagline: A text-focused Jekyll theme   # it will display as the sub-title
+tagline: Hi, saya Ari. Saya software engineer yang tinggal di Surabaya.  # it will display as the sub-title
 
 description: >-                        # used by seo meta and the atom feed
   A minimal, portfolio, sidebar,
@@ -34,13 +33,13 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: https://ari-el-muhandiz.github.io 
 
 github:
   username: ari-el-muhandiz             # change to your github username
 
 twitter:
-  username: @arifirmanto4            # change to your twitter username
+  username: arifirmanto4            # change to your twitter username
 
 social:
   # Change to your full name.
@@ -177,4 +176,4 @@ jekyll-archives:
     category: /categories/:name/
 
 # Outdated configuration warning
-outdated: '-- Missing configuration options! --'
+outdated: ''
