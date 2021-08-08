@@ -5,8 +5,8 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-# domain: ari-el-muhandiz.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
-baseurl: '/'     # place folder name if the site is served in a subfolder   
+domain: ari-el-muhandiz.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+baseurl: ''     # place folder name if the site is served in a subfolder   
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
@@ -33,7 +33,7 @@ description: >-                        # used by seo meta and the atom feed
   and focuses on text presentation.
 
 # fill in the protocol & hostname for your site, e.g., 'https://username.github.io'
-url: ''
+url: https://ari-el-muhandiz.github.io 
 
 github:
   username: ari-el-muhandiz             # change to your github username
