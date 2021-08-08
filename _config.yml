@@ -5,19 +5,21 @@ theme: jekyll-theme-chirpy
 
 # Only if your site type is GitHub Project sites and doesn't have a custom domain,
 # change below value to '/projectname'.
-baseurl: ''
+domain: ari-el-muhandiz.github.io       # if you want to force HTTPS, specify the domain without the http at the start, e.g. example.com
+url: https://ari-el-muhandiz.github.io  # the base hostname and protocol for your site, e.g. http://example.com
+baseurl: ''     # place folder name if the site is served in a subfolder   
 
 # The language of the site layout › http://www.lingoes.net/en/translator/langcode.htm
 # Go to folder '_data/locales' to check the available language options
-lang: en
+lang: id
 
 # The lang attribute of HTML › http://www.lingoes.net/en/translator/langcode.htm
 # We can specify a language different from the layout of the content.
 # If it is not assigned, the site will use the value of 'lang' instead.
-content_lang: ''
+content_lang: 'id-ID'
 
 # Change to your timezone › http://www.timezoneconverter.com/cgi-bin/findzone/findzone
-timezone: Asia/Shanghai
+timezone: Asia/Jakarta
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
@@ -35,23 +37,23 @@ description: >-                        # used by seo meta and the atom feed
 url: ''
 
 github:
-  username: github_username             # change to your github username
+  username: ari-el-muhandiz             # change to your github username
 
 twitter:
-  username: twitter_username            # change to your twitter username
+  username: @arifirmanto4            # change to your twitter username
 
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: Ari Firmanto
+  email: arifirmanto@gmail.com             # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username      # change to your twitter homepage
-    - https://github.com/username       # change to your github homepage
+    # - https://twitter.com/username      # change to your twitter homepage
+    - https://github.com/ari-el-muhandiz       # change to your github homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
-    # - https://www.linkedin.com/in/username
+    - https://www.linkedin.com/in/ari-firmanto-981a443a/
 
 google_site_verification: google_meta_tag_verification # change to your verification string
 
@@ -76,7 +78,7 @@ google_analytics:
 #     light  - Use the light color scheme
 #     dark   - Use the dark color scheme
 #
-theme_mode:   # [light|dark]
+theme_mode:  dark # [light|dark]
 
 # The CDN endpoint for images.
 # Notice that once it is assigned, the CDN url
