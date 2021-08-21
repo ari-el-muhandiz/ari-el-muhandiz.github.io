@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Efisien Caching dengan Bloom Filter
-date: 2021-08-21 14:24:47 +0700
+date: 2021-08-21 23:39:47 +0700
 categories: system-design
 ---
 ## Efisien Caching dengan Bloom Filter
